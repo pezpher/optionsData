@@ -5,7 +5,7 @@ This code helps you analyze and compare options data for multiple stocks to make
 To help you assess the potential risks and rewards, the code calculates key metrics for each option:
 
 * **Return %:**  How much money you could make relative to the strike price.
-* **Move Needed %:** How much the stock price needs to change for the option to be at the strike price.
+* **Move Needed %:** How much the stock price needs to change for the underlying to be at the strike price.
 * **Move Needed/Return:** A ratio showing the risk-to-reward profile of the option.
 * **Change R%:**  How the potential return changes between different strike prices.
 * **Change P:** How the option price changes between different strike prices.
